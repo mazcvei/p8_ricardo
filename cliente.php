@@ -12,7 +12,7 @@
         <input type="text" name="letra" id="texto"/>
         <input type="submit" id="aceptar" name="aceptar" value="Buscar">
     </form>
-    <div id="resultado"></div>
+    <div id="resultado"></div> 
     <script>
         $(document).ready(function() {
             $("#formulario").submit(function(event) {
